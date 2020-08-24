@@ -8,3 +8,6 @@ The idea for this project from [JavaScript Web Projects: 20 Projects to Build Yo
 ### Getting Started
 
 - You need to have basic knowledge of HTML, CSS and Javascript.
+
+
+[Viewlive](https://alexbma.github.io/quote-generator/)
